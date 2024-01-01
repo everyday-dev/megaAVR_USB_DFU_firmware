@@ -1,2 +1,2 @@
-# MEGA AVR USB DFU Bootloader Firmware
-These ```.hex``` images can be found [here](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/SoftwareLibraries/Firmware/megaUSB_DFU_Bootloaders.zip) and are being stored on Github in case links become broken or images are removed from Microchip website.
+# We've moved. 
+In an effort to truly own and be in full control of our clients and personal information, source code, and documentation we've moved to a self-hosted Git server. You can find this project here: [git.everydaydev.io](https://git.everydaydev.io/opensource/megaAVR_USB_DFU_firmware)
